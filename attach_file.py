@@ -1,11 +1,5 @@
 #!/usr/bin/python -tt
-#Command:   python attach_file.py
-#Description: The script is used to attach leave and attendence data to respective users asana task
-#Author:    Rudra Narayan Singh <rudran@one.com>
-#Project:   one.com-internalit-tools
 #Dependencies:
-
-#!/usr/bin/python -tt
 import os
 import requests
 import shutil
